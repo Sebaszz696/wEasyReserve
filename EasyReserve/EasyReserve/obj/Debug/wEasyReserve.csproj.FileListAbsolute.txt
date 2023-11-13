@@ -1,0 +1,47 @@
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\wEasyReserve.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\wEasyReserve.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmCestetica.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmDatosCliente.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmDermatologia.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmEmpleadosNuevos.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmFormasDePago.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmGinecologia.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmOdontologia.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmPagar.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmPsicologia.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmRegistroCrud.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmRegistro.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmPaginaPrincipal.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmLogin.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.Properties.Resources.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmReservaFrancia.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmPediatria.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.frmReservarEspecialista.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\wEasyReserve.csproj.GenerateResource.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\wEasyReserve.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\bin\Debug\EasyReserve.exe.config
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\bin\Debug\EasyReserve.exe
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\bin\Debug\EasyReserve.pdb
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\wEasyReserve.csproj.CopyComplete
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.exe
+C:\Users\Mi pc 1\Desktop\Easyreserve\HotelExpress-main\HotelExpress\obj\Debug\EasyReserve.pdb
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\wEasyReserve.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\wEasyReserve.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmPaginaPrincipal.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmLogin.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.Properties.Resources.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmReservarEspecialista.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\wEasyReserve.csproj.GenerateResource.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\wEasyReserve.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.exe
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.pdb
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\bin\Debug\EasyReserve.exe.config
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\bin\Debug\EasyReserve.exe
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\bin\Debug\EasyReserve.pdb
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\wEasyReserve.csproj.CopyComplete
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmRegistroLogin.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmReservarEspacio.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmReservarEspecialistaCrud.resources
+C:\Users\Mi pc 1\Desktop\Easyreserve - copia\EasyReserve\EasyReserve\obj\Debug\EasyReserve.frmReservarEspacioCrud.resources
